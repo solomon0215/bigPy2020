@@ -1,3 +1,3 @@
-data/.dat
-logs/.dat
-conf/.properties
+/data/
+/logs/
+/conf/
