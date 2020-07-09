@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/pyapp/VO/WRI_14.py=utf-8
+encoding//src/pyapp/VO/damcode.py=utf-8
+encoding//src/pyapp/VO/walcode.py=utf-8
+encoding//src/pyapp/common/CommonFile.py=utf-8
+encoding//src/pyapp/common/commonLog.py=utf-8
+encoding//src/pyapp/common/commonRequest.py=utf-8
+encoding//src/pyapp/data_portal/damcode_url.py=utf-8
+encoding//src/pyapp/data_portal/pri_02_url.py=utf-8
+encoding//src/pyapp/data_portal/pri_05_url.py=utf-8
+encoding//src/pyapp/data_portal/walcode_url.py=utf-8
+encoding//src/pyapp/data_portal/wri_14_url.py=utf-8
+encoding//src/pyapp/main/wri_main.py=utf-8
+encoding//src/pyapp/service/damcode_service.py=utf-8
+encoding//src/pyapp/service/walcode_service.py=utf-8
+encoding//src/pyapp/service/wri_14_service.py=utf-8
